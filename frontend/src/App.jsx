@@ -6,7 +6,7 @@ import StatsCards from './components/StatsCards';
 import IssuerBadges from './components/IssuerBadges';
 import Footer from './components/Footer';
 
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = 'https://creditcard-assignment.onrender.com';
 
 function App() {
   const [files, setFiles] = useState([]);

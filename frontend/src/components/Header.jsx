@@ -32,7 +32,7 @@ const Header = () => {
               Features
             </a>
             <a 
-              href="http://localhost:5000/health" 
+              href="https://creditcard-assignment.onrender.com/health" 
               target="_blank" 
               rel="noopener noreferrer"
               className="px-4 py-2 bg-linear-to-r from-blue-600 to-indigo-600 text-white rounded-lg hover:shadow-lg transition-all duration-200 font-medium"
